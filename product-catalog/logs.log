@@ -1,0 +1,7 @@
+2023/01/11 13:48:14 pq: duplicate key value violates unique constraint "product_master_pkey"
+2023/01/11 14:43:02 pq: duplicate key value violates unique constraint "product_master_pkey"
+2023/01/11 14:58:13 pq: duplicate key value violates unique constraint "inventory_pkey"
+2023/01/11 14:58:50 pq: duplicate key value violates unique constraint "category_master_pkey"
+2023/01/13 16:35:36 pq: duplicate key value violates unique constraint "category_master_pkey"
+2023/01/13 16:35:36 pq: duplicate key value violates unique constraint "inventory_pkey"
+2023/01/13 16:35:36 pq: duplicate key value violates unique constraint "product_master_pkey"
